@@ -15,16 +15,9 @@ The goal is to demonstrate how CAD tasks can be structured for model training, e
 
 ## Current Models
 
-### Parametric Mounting Bracket
+### 1. Parametric Mounting Bracket
 
-A configurable mechanical bracket with adjustable:
-
-- length
-- width
-- thickness
-- hole diameter
-- hole spacing
-- corner radius
+A configurable mechanical bracket with adjustable length, width, thickness, hole diameter, hole spacing, and corner radius.
 
 File:
 
